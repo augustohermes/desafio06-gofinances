@@ -24,7 +24,7 @@ Esse desafio tem o objetivo que você pratique o tópico de publicação de apli
 ## Clone este repositório e acesse o diretório
 
 ```sh
-$ git clone git@github.com:augustohermes/desafio05-github-explorer.git && cd desafio05-github-explorer
+$ git clone git@github.com:augustohermes/desafio06-gofinances.git && cd desafio06-gofinances
 ```
 
 ## Instale as dependências necessárias
